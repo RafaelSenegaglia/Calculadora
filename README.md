@@ -1,4 +1,4 @@
-## Calculadora.
+## Calculadora...
 
  * Treinando JavaScript:
 
